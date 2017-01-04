@@ -2,7 +2,7 @@
 
 ## 1. Branch Namimg Specification
 
-* **branch namimg format**: (product name)-(tool name)-(system type)
+* **branch namimg format**: (product name)\_(tool name)\_(system type)
   * **product name**:
     * SBC-7112S;
     * SBC-7112S-Q;
@@ -10,7 +10,7 @@
     * Linux3.0.35;
     * Linux3.0.35-Qt4.8.5;
 * **E.g**  
-`SBC-7112S`(product name)`-burning`(tool name)`-Linux3.0.35`(system type) = `SBC-7112S-burning-Linux3.0.35`
+`SBC-7112S`(product name)`_burning`(tool name)`_Linux3.0.35`(system type) = `SBC-7112S_burning_Linux3.0.35`
 
 ## 2. Release Naming Specification
 
